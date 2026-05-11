@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project builds an automated phishing email detection system using classical NLP techniques and machine learning algorithms. The model classifies emails as **Phishing** or **Safe** by analyzing both the text content and cybersecurity-specific linguistic patterns used by attackers.
+This project builds an automated phishing email detection system using classical NLP techniques and machine learning algorithms. The model classifies emails as **Phishing** or **Safe** by analyzing both the text content and cybersecurity specific linguistic patterns used by attackers.
 
 ---
 
